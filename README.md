@@ -1,3 +1,5 @@
+**Intelligent Contract deployment (GenLayer Studio):** `0x8363F374c1E70b2291539f4992e5A13f94DeDd39`
+
 # DisputeCourt
 
 A multi-stage dispute resolution Intelligent Contract for GenLayer. Two parties argue a case on-chain, validators reach consensus on an AI-generated verdict, either party can appeal once with new evidence, and final outcomes build a per-address win/loss record that other contracts can read.
